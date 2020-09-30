@@ -1,6 +1,6 @@
 # Learn Programming Laguages
 
-The following are the list of things common about most programming language;
+The following are the list of things common to most programming languages;
 
 1.  History
 2.  Symbols/Characters
@@ -12,7 +12,4 @@ The following are the list of things common about most programming language;
 8.  Control/Order-of-execution
 9.  Function/Subroutine/Method
 10. Module/Package
-11. Procedure/OOP
-
-However, there are other language specific features that would be trated on language 
-basis.
+11. Procedures/OOP
