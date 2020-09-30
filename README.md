@@ -1,1 +1,1 @@
-# learn-programming-laguages
+# Learn Programming Laguages
